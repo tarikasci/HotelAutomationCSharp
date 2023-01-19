@@ -1,0 +1,6 @@
+C:\Users\TARIK\Desktop\VisualStudiProjeleri\HotelAutomation\HotelAutomation.ORM\bin\Debug\HotelAutomation.ORM.dll
+C:\Users\TARIK\Desktop\VisualStudiProjeleri\HotelAutomation\HotelAutomation.ORM\bin\Debug\HotelAutomation.ORM.pdb
+C:\Users\TARIK\Desktop\VisualStudiProjeleri\HotelAutomation\HotelAutomation.ORM\obj\Debug\HotelAutomation.ORM.csproj.AssemblyReference.cache
+C:\Users\TARIK\Desktop\VisualStudiProjeleri\HotelAutomation\HotelAutomation.ORM\obj\Debug\HotelAutomation.ORM.csproj.CoreCompileInputs.cache
+C:\Users\TARIK\Desktop\VisualStudiProjeleri\HotelAutomation\HotelAutomation.ORM\obj\Debug\HotelAutomation.ORM.dll
+C:\Users\TARIK\Desktop\VisualStudiProjeleri\HotelAutomation\HotelAutomation.ORM\obj\Debug\HotelAutomation.ORM.pdb
